@@ -28,7 +28,7 @@ public class ValidatorTools {
      * 校验对象
      *
      * @param validatorobj
-     * @param errorCode
+     * @param errorCode 可用于指定抛出异常的错误码
      * @param groups
      * @throws RuntimeException
      */
